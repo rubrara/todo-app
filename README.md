@@ -1,3 +1,11 @@
+# This is a todo app made in react.
+
+## Here is a demo navigating the app.
+
+[todo.webm](https://user-images.githubusercontent.com/62310511/229595290-811763cd-5081-4841-8602-355925b23565.webm)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
